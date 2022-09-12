@@ -1,7 +1,7 @@
 # dropdown-menu-site
 👋 Hi, I’m Chidike Henry.
 😎 I’m a web developer 
-💻 This is a dropdown menu site made with HTML & CSS. 
+💻 This is a dropdown menu site made with HTML & CSS. Click the social links button. 
 🌍 Website:  
 💞️ I’m looking to collaborate on JS projects 
 📫 How to reach me dk1online25@gmail.com
